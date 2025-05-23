@@ -74,7 +74,7 @@ This project features a comprehensive **Coffee Shop Sales Dashboard** developed 
 
 - **Power BI Desktop** – For report development and interactive visualizations  
 - **DAX** – *(Assumed for calculations like KPIs, trends, and filters)*  
-- **Data Source** – Sales data *(specific file format not detailed)*  
+- **Data Source** – Sales data 
 
 ---
 
